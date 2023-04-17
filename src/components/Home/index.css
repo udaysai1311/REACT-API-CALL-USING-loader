@@ -1,0 +1,17 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profile-image {
+  width: 100px;
+}
+.name {
+  color: #12022f;
+}
+.designation {
+  color: #616e7c;
+  margin-top: 0;
+}
